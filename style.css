@@ -7,3 +7,15 @@
     background-color: blue;
     font-style: italic;
 }
+
+ul{
+    padding: 10px 5px;
+    border-radius: 10%;
+    margin: 10%;
+}
+
+li{
+    color: chartreuse;
+    padding: 5%;
+    border: solid 2px orange;
+}
